@@ -41,12 +41,12 @@ Los datos son **sintéticos** e incluyen reglas intencionales:
 
 ## Librerías
 
-| Librería | Uso | Instalación |
-|---|---|---|
-| `kafka-python` | Productor y consumidor | `pip install kafka-python` |
-| `pyspark` | Carga, limpieza y análisis | `pip install pyspark` |
-| `pandas` | Pasar resultados agregados a gráficos | `pip install pandas` |
-| `matplotlib` | Visualizaciones | `pip install matplotlib` |
+| Librería | Versión | Uso | Instalación |
+|---|---|---|---|
+| `kafka-python` | 3.0.13 | Productor y consumidor | `pip install kafka-python` |
+| `pyspark` | 4.2.1 | Carga, limpieza y análisis | `pip install pyspark` |
+| `pandas` | 3.1.1 | Pasar resultados agregados a gráficos | `pip install pandas` |
+| `matplotlib` | 3.11.1 | Visualizaciones | `pip install matplotlib` |
 
 Todo junto:
 
