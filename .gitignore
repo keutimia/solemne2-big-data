@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de datos generados
+eventos.jsonl
+demo_eventos.jsonl
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config de VSCode (opcional, depende de tu equipo)
+.vscode/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
