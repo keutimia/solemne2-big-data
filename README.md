@@ -13,9 +13,9 @@ Proyecto que simula validaciones de tarjeta en el transporte público (Metro, Bu
 
 ## Preguntas del análisis
 
-1. **Descriptiva:** ¿cuál es el monto total recaudado en el periodo analizado?
-2. **Comparación:** ¿qué tipo de transporte genera mayor recaudación acumulada?
-3. **Evolución:** ¿cuáles son las horas punta con mayor cantidad de viajes realizados?
+1. **Descriptiva:** ¿Cuál es el monto típico de una validación y cómo se distribuye?
+2. **Comparación:** ¿Qué transporte recauda más?
+3. **Evolución:** ¿Cómo varían las validaciones por hora y por día?
 
 ## Datos del evento
 
